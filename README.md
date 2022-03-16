@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Himanshu Mishra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Himanshu Mishra<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;learning+Full+Stack+Web+Development+at+Masai+School;Competitive+Programmer;DS%20%7C%20Algorithms%20%7C%20OOP%20;Always%20learning%20new%20things&center=true&width=1000&height=100"></a>
 </p>
@@ -24,11 +24,12 @@
 
 <br>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
 
-<br>
-<br>
+
+## 🔥 Streak Stats
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" />
+<img align="center" src="https://camo.githubusercontent.com/c066184ef21cd4315d9287d73ef5f62fcf0dad2ef18b9faf07e73e3e153360fe/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f4b444470634b6967626646706e656a5a73362f67697068792e6769663f6369643d65636630356534376f793666347a6a73386731716f6979737463353663753772397462386131666537366530356f7479267269643d67697068792e676966"></p>
+
 
 
 ## 👀 My Competitive Programming Profiles
