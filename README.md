@@ -15,7 +15,7 @@
 
 
 ## :sassy_man:  About me
-- :college: I am a `Graduate ` at Computers & Information technology Student at Dayanand Anglo Vedic University.
+- :college: I am a `Graduate ` at Computers & Information technology Student from Dayanand Anglo Vedic University.
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codeforces`
 - :student: I’m currently learning: `Full Stack Web Development `.
