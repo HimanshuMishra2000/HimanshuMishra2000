@@ -34,7 +34,7 @@
 
 
 
-<!-- ## 👀 My Competitive Programming Profiles -->
+<!-- ## My Competitive Programming Profiles -->
 
 <!-- <p align="center">
   <a href="https://codeforces.com/profile/7oSkaaa"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
@@ -170,6 +170,10 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshumishra2000&show_icons=true&locale=en&layout=compact" alt="himanshumishra2000" /></p>
+<br>
+<br>
+<br>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshumishra2000&show_icons=true&locale=en" alt="himanshumishra2000" /></p>
 
