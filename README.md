@@ -1,3 +1,6 @@
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
+
+
 <h1 align="center">Hi , I'm Himanshu Mishra<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;learning+Full+Stack+Web+Development+at+Masai+School;Competitive+Programmer;DS%20%7C%20Algorithms%20%7C%20OOP%20;Always%20learning%20new%20things&center=true&width=1000&height=100"></a>
@@ -22,6 +25,28 @@
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1mn6b-c0Yp6fqyENTwaH91b5zDEIDn6J2/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
+ ```python
+  class WhoAmI:
+    user = 'Himanshu Mishra'
+	current_edu = "BSC-IT"
+    currently_learning = "Javascript"
+    fun_fact = "I hate Chillies"
+	hobbies = [
+				'Music',
+                         'Chilling',
+			 	'Gaming',
+				'Travelling',
+				'Sci-Fi Movies'
+			]
+	
+	def getCity():
+		return Kanpur_India()
+	
+	def Ambitions():
+		BecomeSoftwareEngineer()
+		FinishMyProjects()
+	
+ ```
 <br>
 
 <br>
@@ -174,12 +199,16 @@
 <br>
 <br>
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshumishra2000&show_icons=true&locale=en" alt="himanshumishra2000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshumishra2000&" alt="himanshumishra2000" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshumishra2000" alt="himanshumishra2000" /></a><img align="center" src="https://camo.githubusercontent.com/c066184ef21cd4315d9287d73ef5f62fcf0dad2ef18b9faf07e73e3e153360fe/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f4b444470634b6967626646706e656a5a73362f67697068792e6769663f6369643d65636630356534376f793666347a6a73386731716f6979737463353663753772397462386131666537366530356f7479267269643d67697068792e676966"> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshumishra2000" alt="himanshumishra2000" /></a>
+	<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+	<img align="center" src="https://camo.githubusercontent.com/c066184ef21cd4315d9287d73ef5f62fcf0dad2ef18b9faf07e73e3e153360fe/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f4b444470634b6967626646706e656a5a73362f67697068792e6769663f6369643d65636630356534376f793666347a6a73386731716f6979737463353663753772397462386131666537366530356f7479267269643d67697068792e676966"> </p>
 
 <!--   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
