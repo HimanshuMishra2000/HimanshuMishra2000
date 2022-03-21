@@ -18,6 +18,8 @@
 
 
 ## :sassy_man:  About me
+<img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="200px" align="right">
+
 - :college: I am a `Graduate ` at Computers & Information technology Student from Dayanand Anglo Vedic University.
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codeforces`
@@ -235,10 +237,13 @@
 <br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshumishra2000&" alt="himanshumishra2000" /></p>
-<br>
+
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshumishra2000" alt="himanshumishra2000" /></a>
+![github graph](https://activity-graph.herokuapp.com/graph?username=himanshumishra2000&theme=react-dark)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+	<img src="https://github-profile-trophy.vercel.app/?username=himanshumishra2000" alt="himanshumishra2000" /></a>
 	<p><img align="right" width="400px" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 	<img align="left" width = "400px"src="https://camo.githubusercontent.com/c066184ef21cd4315d9287d73ef5f62fcf0dad2ef18b9faf07e73e3e153360fe/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f4b444470634b6967626646706e656a5a73362f67697068792e6769663f6369643d65636630356534376f793666347a6a73386731716f6979737463353663753772397462386131666537366530356f7479267269643d67697068792e676966"> </p>
 	
