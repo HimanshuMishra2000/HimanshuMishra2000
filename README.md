@@ -224,7 +224,7 @@
 
   <img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="1200" height="320" />
 <!-- <img src="https://github.com/thuanpham2311/thuanpham2311/raw/master/img/ongDev.webp"> -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshumishra2000&show_icons=true&locale=en&layout=compact" alt="himanshumishra2000" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshumishra2000&show_icons=true&locale=en&layout=compact" alt="himanshumishra2000" /></p> -->
 <br>
 <br>
 <br>
@@ -233,7 +233,7 @@
 <!-- <img  color ="black" align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
 
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=himanshumishra2000&show_icons=true&locale=en" alt="himanshumishra2000" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=himanshumishra2000&show_icons=true&locale=en" alt="himanshumishra2000" /></p>
 <br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshumishra2000&" alt="himanshumishra2000" /></p>
