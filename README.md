@@ -233,10 +233,10 @@
 <!-- <img  color ="black" align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
 
 
-<p>&nbsp;<img align="left" width="480" src="https://github-readme-stats.vercel.app/api?username=himanshumishra2000&show_icons=true&locale=en" alt="himanshumishra2000" /></p>
+<p>&nbsp;<img align="left" width="380" src="https://github-readme-stats.vercel.app/api?username=himanshumishra2000&show_icons=true&locale=en" alt="himanshumishra2000" /></p>
 <br>
 
-<p><img align="right"  width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshumishra2000&" alt="himanshumishra2000" /></p>
+<p><img align="right"  width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshumishra2000&" alt="himanshumishra2000" /></p>
 
 <br>
 
