@@ -85,7 +85,7 @@
   <a href="https://www.instagram.com/himanshuempire/">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>
   </a><span>&nbsp;</span>
-  <a href="himanshumishraa55@gmail.com">
+  <a href="mailto:himanshumishraa55@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   </a><span>&nbsp;</span>
   <a href="https://github.com/HimanshuMishra2000">
