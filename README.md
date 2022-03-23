@@ -213,7 +213,10 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp; -->
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white">
+	 <img align="right" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="250" height="150" /></a>
+	
+	
   &emsp;
 <!--     <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>	   -->
 </p>
@@ -222,12 +225,11 @@
 
 ## 📊 Github Stats
 
-  <img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="300" height="220" />
 <!-- <img src="https://github.com/thuanpham2311/thuanpham2311/raw/master/img/ongDev.webp"> -->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshumishra2000&show_icons=true&locale=en&layout=compact" alt="himanshumishra2000" /></p> -->
+<!-- <br>
 <br>
-<br>
-<br>
+<br> -->
 
 
 <!-- <img  color ="black" align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
@@ -243,9 +245,9 @@
 ![github graph](https://activity-graph.herokuapp.com/graph?username=himanshumishra2000&theme=react-dark)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-	<img src="https://github-profile-trophy.vercel.app/?username=himanshumishra2000" alt="himanshumishra2000" /></a>
+	<img src="https://github-profile-trophy.vercel.app/?username=himanshumishra2000" alt="himanshumishra2000" /></a></p>
 	<p><img align="right" width="400px" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-	<img align="left" width = "400px"src="https://camo.githubusercontent.com/c066184ef21cd4315d9287d73ef5f62fcf0dad2ef18b9faf07e73e3e153360fe/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f4b444470634b6967626646706e656a5a73362f67697068792e6769663f6369643d65636630356534376f793666347a6a73386731716f6979737463353663753772397462386131666537366530356f7479267269643d67697068792e676966"> </p>
+	<img align="left" width = "400px"src="https://camo.githubusercontent.com/c066184ef21cd4315d9287d73ef5f62fcf0dad2ef18b9faf07e73e3e153360fe/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f4b444470634b6967626646706e656a5a73362f67697068792e6769663f6369643d65636630356534376f793666347a6a73386731716f6979737463353663753772397462386131666537366530356f7479267269643d67697068792e676966"> 
 	
 	
 	
