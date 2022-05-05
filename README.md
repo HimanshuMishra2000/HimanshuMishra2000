@@ -257,7 +257,7 @@
 <!-- 	<p align="center"> -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg"> 
 
-<!--   <summary><b>💻 GitHub Profile Stats</b></summary>
+<!--   <summary><b>💻 GitHub Profile Stats</b></summary>.......
   <br/>
   <p align="center">
     <a href="https://github.com/HimanshuMishra2000-readme-stats"><img alt="HimnshuMishra2000 Github Stats" src="https://github-readme-stats.username=Himanshu Mishra2000&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
