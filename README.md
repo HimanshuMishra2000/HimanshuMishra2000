@@ -31,8 +31,8 @@
  ```python
   class WhoAmI:
     user = 'Himanshu Mishra'
-	current_edu = "BSC-IT"
-    currently_learning = "Javascript"
+	current_edu = "BSC-IT,FULL STACK WEB DEVELOPMENT"
+    currently_learning = "Javascript,React.JS"
     fun_fact = "I hate Chillies"
 	hobbies = [
 				'Music',
