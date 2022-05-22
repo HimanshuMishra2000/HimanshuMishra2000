@@ -17,7 +17,7 @@
 </p>
 
 
-## :sassy_man:  About me...
+## :sassy_man:  About me
 <img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="200px" align="right">
 
 - :college: I am a `Graduate ` at Computers & Information technology Student from Dayanand Anglo Vedic University.
@@ -73,7 +73,7 @@
 	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
 </p> -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me....
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
 
 <p align="center">
@@ -114,9 +114,9 @@
 
 
 
-## 🛠️ My Skills..
+## 🛠️ My Skills
 
-### 👉 Programming languages..
+### 👉 Programming languages
 
 <p align="center"> 
   &emsp; 
@@ -176,7 +176,7 @@
 <!--     <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a> -->
 </p>
 
- ### 👉 IDEs..
+ ### 👉 IDEs
  
 <p align="center">
   &emsp;
@@ -224,7 +224,7 @@
 
 <br/>
 
-## 📊 Github Stats...
+## 📊 Github Stats
 
 <!-- <img src="https://github.com/thuanpham2311/thuanpham2311/raw/master/img/ongDev.webp"> -->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshumishra2000&show_icons=true&locale=en&layout=compact" alt="himanshumishra2000" /></p> -->
