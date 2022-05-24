@@ -255,7 +255,7 @@
 	
 	
 <!-- 	<p align="center"> -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg"> .
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg"> 
 
 <!--   <summary><b>💻 GitHub Profile Stats</b></summary>.......
   <br/>
