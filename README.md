@@ -116,7 +116,7 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### 👉 Programming languages...
 
 <p align="center"> 
   &emsp; 
