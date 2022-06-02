@@ -155,7 +155,7 @@ Connect with me
   </a> 
 </p>
 
- ### 👉 Software & Tools
+ ### 👉 Software & Tools.........
  
 <p align="center">
   &emsp;
