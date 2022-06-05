@@ -18,6 +18,7 @@
 
 
 ## :sassy_man:  About me
+
 <img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="200px" align="right">
 
 - :college: I am a `Graduate ` at Computers & Information technology Student from Dayanand Anglo Vedic University.
