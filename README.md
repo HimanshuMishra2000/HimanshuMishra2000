@@ -17,7 +17,7 @@
 </p>
 
 
-## :sassy_man:  About me...
+## :sassy_man:  About me
 
 <img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="200px" align="right">
 
