@@ -181,7 +181,7 @@ Connect with me
 
  ### 👉 IDEs
  
-<p align="center">...................
+<p align="center">
   &emsp;
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
