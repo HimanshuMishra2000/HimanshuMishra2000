@@ -117,7 +117,7 @@ Connect with me
 
 
 
-## 🛠️ My Skills.........
+## 🛠️ My Skills
 
 ### 👉 Programming languages
 
