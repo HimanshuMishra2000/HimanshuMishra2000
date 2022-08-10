@@ -25,7 +25,7 @@
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codeforces`
 - :student: I’m currently learning: `Full Stack Web Development `.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1U-ghv7bpIZ_dRQSSltq32L8emqAdJKlj/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1nmowWJ7brvtk8wtYmLHPo73CVcj-l1az/view?usp=sharing).
 -  :thinking: You can Check my Portfolio here. This is [MY Portfolio](https://himanshumishra-portfolio-1.netlify.app)
 - :nerd_face: Always `learning new things`
 
