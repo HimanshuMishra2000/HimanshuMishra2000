@@ -36,11 +36,11 @@
     currently_learning = "Javascript,React.JS"
     fun_fact = "I hate Chillies"
 	hobbies = [
-				'Music',
-                         'Chilling',
-			 	'Gaming',
-				'Travelling',
-				'Sci-Fi Movies'
+			'Music',
+                        'Chilling',
+			 'Gaming',
+			'Travelling',
+			'Sci-Fi Movies'
 			]
 	
 	def getCity():
@@ -75,7 +75,7 @@
 </p> -->
 
 ## 
-<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">  -->
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">  
 Connect with me
 
 
